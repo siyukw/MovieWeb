@@ -1,0 +1,60 @@
+<html>
+<head>
+    <title>Movie Lovers</title>
+    <link rel="stylesheet" type="text/css" href="class.css"/>
+</head>
+<body>
+<div id="container">
+    <div id="header">
+        <h1>The Breakfast Club</h1>
+    </div>
+
+
+    <div id="content">
+        <div id="nav">
+            <h3>Navigation</h3>
+            <ul>
+
+                <a href="movie2.html"><button class="selected">American Sniper</button></a>
+                <a href="movie3.html"><button class="selected">The Breakfast Club</button></a>
+                <a href="movie4.html"><button class="selected">Tiny Times</button></a>
+        </div>
+
+        <div id="main">
+            <h2>Rate:</h2><img src="http://e4dstart.appspot.com/img/TypingClub_3stars.png" width="130px" height="50px">
+            <img src="http://ecx.images-amazon.com/images/I/51MJdsd29wL.jpg" width="500px" border="1px">
+            <h2>Release year:1985 </h2>
+            <h2>Production company:Channel Productions</h2>
+            <p>In Shermer High School, students need to be at school at 7a.m. where they got into troubles. Five students are on this weekend. The are not strangers, but they don't know each other well either.</p>
+            <p>They were not suppose to do anything according to the assistant principal, Richard Vernon. But teenagers don't able rules. After a while, they started talking and messing around.</p>
+            <p>With a whole day,despite their differences in social status, they are forming friendships. Brian finished everyone's essay, and everything is going on the right truck. Life is great.</p>
+            <h3>Click on the picture below and enjoy a great trailer!<h3>
+                <a href="https://www.youtube.com/watch?v=dkX8J-FKndE&safe=active"><img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/t31.0-8/411667_441603715867202_685105596_o.jpg" width="500px"></a>
+                <br>
+                <br>
+                <hr>
+                <marquee width="100%" height="35" direction="left" behavior="alternate" scrollamount="2" scrolldelay="60" onmouseover=stop() onmouseout=start()>
+                    <c:forEach items="${model}" var="user">
+                        <a href="http://www.amazon.com/s/ref=nb_sb_ss_i_2_6?url=search-alias%3Dmovies-tv&field-keywords=the+breakfast+club&sprefix=the+br%2Cmovies-tv%2C151&rh=n%3A2625373011%2Ck%3Athe+breakfast+club">
+                            Click here to buy it on Amazon</a>
+                    </c:forEach>
+                </marquee>
+                <div align="center">
+                    <a href="movie1.html"><button class="selected">BACK</button></a>
+                    <a href="movie4.html"><button class="selected">NEXT</button></a>
+                    <a href="movie2.html"><button class="selected">PREV</button></a>
+                </div>
+
+                <br>
+        </div>
+    </div>
+
+
+    <div id="footer">
+        Copyright &copy; 2015 Katherine Wang.
+
+    </div>
+</div>
+</body>
+
+</html>

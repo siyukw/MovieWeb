@@ -26,13 +26,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="movie1.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="movie1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/movie1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1420">
               <caret line="71" column="7" lean-forward="false" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
               <folding>
                 <element signature="e#2368#2374#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="movie2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/movie2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="758">
+              <caret line="64" column="7" lean-forward="false" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+              <folding>
+                <element signature="e#3012#3018#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="movie3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/movie3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1180">
+              <caret line="59" column="7" lean-forward="false" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+              <folding>
+                <element signature="e#2881#2887#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="movie4.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/movie4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#3282#3288#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,6 +93,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/class.css" />
         <option value="$PROJECT_DIR$/src/movie1.html" />
+        <option value="$PROJECT_DIR$/src/movie2.html" />
+        <option value="$PROJECT_DIR$/src/movie3.html" />
+        <option value="$PROJECT_DIR$/src/movie4.html" />
       </list>
     </option>
   </component>
@@ -390,6 +429,36 @@
           <caret line="71" column="7" lean-forward="false" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
           <folding>
             <element signature="e#2368#2374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="758">
+          <caret line="64" column="7" lean-forward="false" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+          <folding>
+            <element signature="e#3012#3018#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1180">
+          <caret line="59" column="7" lean-forward="false" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+          <folding>
+            <element signature="e#2881#2887#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/movie4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#3282#3288#0" expanded="true" />
           </folding>
         </state>
       </provider>
